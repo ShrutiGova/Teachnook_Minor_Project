@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://images.pexels.com/photos/7130535/pexels-photo-7130535.jpeg?auto=compress&cs=tinysrgb&w=400);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 45px;
+    color: #56cfe1;
+    text-align: center;
+    background-image: linear-gradient(120deg, #b5179e, #3f37c9, #7209b7);
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin: 15px;
+}
+
+.intro {
+    display: inline-block;
+    text-align: center;
+    width: 75%;
+}
+
+.about {
+    font-size: 20px;
+    text-align: justify;
+}
